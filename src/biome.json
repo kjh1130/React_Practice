@@ -1,0 +1,10 @@
+{
+  "formatter": {
+    "enabled": true,
+    "indentStyle": "space",
+    "indentWidth": 2,
+    "lineWidth": 90,
+    "quoteStyle": "single",
+    "trailingComma": "none"
+  }
+}
