@@ -23,3 +23,7 @@ yarn-debug.log*
 yarn-error.log*
 
 20230213123144_리액트.pdf
+
+/node_modules
+
+package-lock.json
