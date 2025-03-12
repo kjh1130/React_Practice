@@ -1,6 +1,6 @@
 import {Title} from '../components'
 
-export default function CopyMe() {
+export const c = ()=> {
     return (
         <section className="mt-4">
             <Title>CopyMe</Title>
